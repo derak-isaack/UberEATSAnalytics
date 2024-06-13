@@ -2,3 +2,6 @@ uberAnalysis/
 restaurant-menus.csv
 uberEats-menus.parquet
 uber_restaurants.db
+uber_restaurants_listings.db
+uber_restaurants_listings.db.wal
+uber_restaurants.db.wal
