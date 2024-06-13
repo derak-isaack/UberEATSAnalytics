@@ -1,4 +1,4 @@
-## <div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://images.pexels.com/photos/7078619/pexels-photo-7078619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"><b><span style='color:black'><strong> UBER-EATS RESTAURANT BIG DATA PRICE ANALYSIS </strong></span></b> </div> 
+## <div style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://images.pexels.com/photos/7078619/pexels-photo-7078619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"><b><span style='color:black'><strong> UBER-EATS RESTAURANTS BIG DATA MENU PRICE ANALYSIS </strong></span></b> </div> 
 
 ![Duckdb](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge)
 ![sql](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
@@ -17,7 +17,7 @@ This project aimed to analyze the menus of various restaurants that use `uber-ea
 * `Low latency`: Optimized for complex analytical queries due to their latency structure and optimized data structures and indexing. 
 * `Batch processing`: Good for `large-scale` data processing tasks efficiently.
 
-`Uber-Eats` customers also have the right to investigate the prices of various items on the menu to find the cheapest and most expensive restaurants to save on expenditure. 
+`Uber-Eats` customers also have the right to investigate the prices of various items on the menu to find the cheapest and most expensive restaurants to save on expenditure. The data was sourced from `kaggle` and can be accessed by using the following ![link](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus)
 
 ### <div style="padding: 20px;color:white;margin:10;font-size:90%;text-align:left;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://w0.peakpx.com/wallpaper/957/661/HD-wallpaper-white-marble-white-stone-texture-marble-stone-background-white-stone.jpg)"><b><span style='color:black'> Objectives</span></b> </div>
 
@@ -28,4 +28,8 @@ This project aimed to analyze the menus of various restaurants that use `uber-ea
 5. Investigate the `most expensive restaurant.`
 6. `Snacks items` analysis. Analyze the price of snack items across various restaurants. 
 
+### <div style="padding: 20px;color:white;margin:10;font-size:90%;text-align:left;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://w0.peakpx.com/wallpaper/957/661/HD-wallpaper-white-marble-white-stone-texture-marble-stone-background-white-stone.jpg)"><b><span style='color:black'> Findings</span></b> </div>
 
+![avg-price](images/avg_price.png)
+![snacks](images/snacks_prices.png)
+![prices](images/Items_prices.png)
