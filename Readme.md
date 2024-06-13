@@ -33,3 +33,10 @@ This project aimed to analyze the menus of various restaurants that use `uber-ea
 ![avg-price](images/avg_price.png)
 ![snacks](images/snacks_prices.png)
 ![prices](images/Items_prices.png)
+
+### <div style="padding: 20px;color:white;margin:10;font-size:90%;text-align:left;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://w0.peakpx.com/wallpaper/957/661/HD-wallpaper-white-marble-white-stone-texture-marble-stone-background-white-stone.jpg)"><b><span style='color:black'> Future steps</span></b> </div>
+
+1. Investigate the correlation between location i.e `latitude` & `longitude` and `menu-prices`. 
+2. Outsource data for `customer orders` and analyze `consumer purchasing trends`.
+
+All the requirements to run this project are listed in the file [requirements-file](requirements.txt) together with the library versions. 
