@@ -39,4 +39,12 @@ This project aimed to analyze the menus of various restaurants that use `uber-ea
 1. Investigate the correlation between location i.e `latitude` & `longitude` and `menu-prices`. 
 2. Outsource data for `customer orders` and analyze `consumer purchasing trends`.
 
+### <div style="padding: 20px;color:white;margin:10;font-size:90%;text-align:left;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://w0.peakpx.com/wallpaper/957/661/HD-wallpaper-white-marble-white-stone-texture-marble-stone-background-white-stone.jpg)"><b><span style='color:black'> Getting started</span></b> </div>
+
 All the requirements to run this project are listed in the file [requirements-file](requirements.txt) together with the library versions. 
+
+1. Download the `zip-file` from `kaggle`
+2. Make a project directory using the `mkdir` command on the `terminal` and extract the filesin the zip file.
+3. The files are in zip formart having a size of `896 mb`. 
+4. Follow along through the parquet convert [file](parquet_convert.py) which uses `apache pyarrow`.
+5. Load the parquet file into an `OLAP database` namely `DuckDB` in this case for quick analytical queries. 
