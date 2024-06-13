@@ -17,7 +17,7 @@ This project aimed to analyze the menus of various restaurants that use `uber-ea
 * `Low latency`: Optimized for complex analytical queries due to their latency structure and optimized data structures and indexing. 
 * `Batch processing`: Good for `large-scale` data processing tasks efficiently.
 
-`Uber-Eats` customers also have the right to investigate the prices of various items on the menu to find the cheapest and most expensive restaurants to save on expenditure. The data was sourced from `kaggle` and can be accessed by using the following ![link](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus)
+`Uber-Eats` customers also have the right to investigate the prices of various items on the menu to find the cheapest and most expensive restaurants to save on expenditure. The data was sourced from `kaggle` and can be accessed by using the following [link](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus)
 
 ### <div style="padding: 20px;color:white;margin:10;font-size:90%;text-align:left;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://w0.peakpx.com/wallpaper/957/661/HD-wallpaper-white-marble-white-stone-texture-marble-stone-background-white-stone.jpg)"><b><span style='color:black'> Objectives</span></b> </div>
 
